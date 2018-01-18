@@ -1,6 +1,6 @@
 # Site
-title:              Saurav Vishal
-bio:                "Android learner, Open Source Enthusiast."
+title:              Anant Prasad	
+bio:                "Android Guy, Learner, Open Source Enthusiast."
 description:        #nothing
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://sauravvishal8797.github.io/
+url:                https://anantprsd5.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   sauravvishal8797
+disqus_shortname:   anantprsd5
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +37,7 @@ disqus_shortname:   sauravvishal8797
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              sauravvishal8797@gmail.com
+email:              anantprsd5@gmail.com	
 twitter:            vishal_saurav99
 facebook:           Saurav Vishal
 github-url:         sauravvishal8797
